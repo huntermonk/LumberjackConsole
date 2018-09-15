@@ -14,7 +14,7 @@ On-device [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) 
 
 ## Features
 
-* Sypport dynamic log levels.
+* Support dynamic log levels.
 * Support log modules.
 * Auto-enable [XcodeColors](https://github.com/robbiehanson/XcodeColors) when present.
 * No need to declare `ddLogLevel`.
@@ -24,7 +24,7 @@ On-device [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) 
 * Insert markers.
 * Clear console.
 
-### ToDo
+### To-Do
 
 * Improve rotation support.
 * Read crash reports.
@@ -94,7 +94,7 @@ Add its logger for testing builds:
 }
 ```
 
-### b) Embeded Console
+### b) Embedded Console
 
 Simply add a `PTEConsoleTableView` instance to your view hierarchy.
 
